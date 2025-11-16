@@ -1,7 +1,8 @@
 # Tank Game
 
 A Python tank game where players control a tank across a maze-like map, battling against AI-controlled enemy tanks and interacting with destructible elements.
-**Built entirely with [Kiro](https://kiro.dev)** - an AI-powered development platform that generated all the code, tests, and documentation for this project.
+## **Built entirely with [Kiro](https://kiro.dev)**
+*An AI-powered development platform that generated all the code, tests, and documentation for this project.*
 ## Features
 
 - Maze-like maps with destructible elements
