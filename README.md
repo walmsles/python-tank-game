@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/tank-game.git
 cd tank-game
 
 # Install dependencies
-pip install -e .
+uv sync
 ```
 
 ## Running the Game
