@@ -1,0 +1,3 @@
+"""
+Game Objects tests package.
+"""

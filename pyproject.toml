@@ -1,0 +1,10 @@
+[project]
+name = "tank-game"
+version = "0.1.0"
+description = "A Python tank game with maze-like maps and AI enemies"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pygame>=2.1.0",
+    "numpy>=1.20.0"
+]
