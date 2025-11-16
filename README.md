@@ -31,7 +31,7 @@ pip install -e .
 ## Running the Game
 
 ```bash
-python main.py
+uv run python main.py
 ```
 
 ## Controls
