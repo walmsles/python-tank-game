@@ -1,7 +1,5 @@
 """
 Main entry point for the Tank Game.
-
-With a conlficting change
 """
 import pygame
 import sys
