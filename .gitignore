@@ -10,9 +10,5 @@ wheels/
 # Virtual environments
 .venv
 
-<<<<<<< HEAD
-# some more ignores
-=======
 
 # make change to register conflict
->>>>>>> 00177c4 (conlficts)
